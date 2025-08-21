@@ -4,8 +4,8 @@ This single README provides a short overview and quick start instructions for bo
 
 ## Project structure
 
-- `backend/` — Node/Express API, JWT authentication, MongoDB models (npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken)
-- `frontend/` — React app built with Vite, routing and JWT handling (npm i axios jwt-decode react-router-dom)
+- `backend/` — Node/Express API, JWT authentication, MongoDB models `(npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken)`
+- `frontend/` — React app built with Vite, routing and JWT handling `(npm i axios jwt-decode react-router-dom)`
 
 Frontend devDependencies (high level)
 - vite ^7.1.2
@@ -82,4 +82,5 @@ npm run preview
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
