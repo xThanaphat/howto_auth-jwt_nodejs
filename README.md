@@ -30,7 +30,7 @@ Ensure these values are set before starting the backend server.
 Backend (install & dev):
 
 ```powershell
-`(npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken)`
+`npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken`
 cd backend
 npm install
 npm run dev
@@ -49,7 +49,7 @@ npm run dev
 Build frontend for production:
 
 ```powershell
-npm i axios jwt-decode react-router-dom
+`npm i axios jwt-decode react-router-dom`
 cd frontend
 npm install
 npm run dev
@@ -85,6 +85,7 @@ npm run dev
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
 
 
