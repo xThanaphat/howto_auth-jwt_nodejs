@@ -1,0 +1,1 @@
+backend => npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken

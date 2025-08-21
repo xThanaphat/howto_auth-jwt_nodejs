@@ -1,0 +1,46 @@
+/* Dashboard custom styles */
+.dashboard-hero {
+	background: linear-gradient(135deg, #f8f9fa, #eef4ff);
+	border: 1px solid #e2e6ea;
+}
+.dashboard-hero .hero-accent {
+	position: absolute;
+	inset: 0;
+	pointer-events: none;
+	background: radial-gradient(circle at 80% 20%, rgba(84,132,255,0.15), transparent 60%);
+}
+.stat-tile {
+	background: #ffffff;
+	border: 1px solid #e5e8ec;
+	border-radius: .75rem;
+	padding: 1rem 1.25rem;
+}
+.stat-label {
+	font-size: .75rem;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	color: #6c757d;
+	font-weight: 600;
+	margin-bottom: .25rem;
+}
+.stat-value {
+	font-size: 1.75rem;
+	font-weight: 600;
+	line-height: 1.1;
+}
+.data-card {
+	background: #fff;
+	border: 1px solid #e5e8ec;
+	border-radius: .75rem;
+	transition: box-shadow .2s, transform .15s;
+	display: flex;
+	flex-direction: column;
+}
+.data-card:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.08);
+}
+.data-card pre {
+	max-height: 160px;
+	font-size: .7rem;
+}
