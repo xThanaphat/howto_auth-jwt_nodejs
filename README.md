@@ -39,7 +39,8 @@ npm run dev
 Frontend (install & dev server):
 
 ```powershell
-`(npm i axios jwt-decode react-router-dom)`
+npm create vite@latest
+project frontend -> React + Javascript
 cd frontend
 npm install
 npm run dev
@@ -48,12 +49,10 @@ npm run dev
 Build frontend for production:
 
 ```powershell
-npm create vite@latest
-project frontend -> React + Javascript
+npm i axios jwt-decode react-router-dom
 cd frontend
-npm run build
-# preview the build
-npm run preview
+npm install
+npm run dev
 ```
 
 ## Important scripts
@@ -86,6 +85,7 @@ npm run preview
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
 
 
