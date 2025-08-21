@@ -1,4 +1,4 @@
-# Project: git_auth&jwt (Frontend + Backend)
+# Project: Auth&JWT (Frontend + Backend)
 `FREE => FORK => FUN => LEARN `
 This single README provides a short overview and quick start instructions for both the frontend (React + Vite) and backend (Express + MongoDB + JWT) parts of the project.
 
@@ -85,6 +85,7 @@ npm run dev
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
 
 
