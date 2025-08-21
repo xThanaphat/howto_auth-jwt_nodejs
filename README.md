@@ -48,6 +48,8 @@ npm run dev
 Build frontend for production:
 
 ```powershell
+npm create vite@latest
+project frontend -> React + Javascript
 cd frontend
 npm run build
 # preview the build
@@ -84,6 +86,7 @@ npm run preview
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
 
 
