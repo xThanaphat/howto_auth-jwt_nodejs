@@ -1,30 +1,11 @@
 # Project: git_auth&jwt (Frontend + Backend)
-FREE => FORK => FUN => LEARN
+`FREE => FORK => FUN => LEARN `
 This single README provides a short overview and quick start instructions for both the frontend (React + Vite) and backend (Express + MongoDB + JWT) parts of the project.
 
 ## Project structure
 
-- `backend/` — Node/Express API, JWT authentication, MongoDB models
-- `frontend/` — React app built with Vite, routing and JWT handling
-
-## Dependencies (summary from package.json)
-
-Backend dependencies
-- bcryptjs ^3.0.2
-- cors ^2.8.5
-- dot ^1.1.3
-- dotenv ^17.2.1
-- express ^5.1.0
-- jsonwebtoken ^9.0.2
-- mongoose ^8.17.2
-- nodemon ^3.1.10
-
-Frontend dependencies
-- axios ^1.11.0
-- jwt-decode ^4.0.0
-- react ^19.1.1
-- react-dom ^19.1.1
-- react-router-dom ^7.8.1
+- `backend/` — Node/Express API, JWT authentication, MongoDB models (npm i express nodemon mongoose cors bcryptjs dotenv jsonwebtoken)
+- `frontend/` — React app built with Vite, routing and JWT handling (npm i axios jwt-decode react-router-dom)
 
 Frontend devDependencies (high level)
 - vite ^7.1.2
@@ -101,3 +82,4 @@ npm run preview
 ---
 
 This README is a brief overview and quick start guide for the project.
+
