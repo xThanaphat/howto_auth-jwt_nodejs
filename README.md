@@ -7,12 +7,6 @@ This single README provides a short overview and quick start instructions for bo
 - `backend/` — Node/Express API, JWT authentication, MongoDB models 
 - `frontend/` — React app built with Vite, routing and JWT handling 
 
-Frontend devDependencies (high level)
-- vite ^7.1.2
-- @vitejs/plugin-react ^5.0.0
-- eslint, @eslint/js, eslint-plugin-react-hooks, eslint-plugin-react-refresh, globals
-- @types/react, @types/react-dom
-
 Note: versions are taken from each folder's `package.json`.
 
 ## Environment (backend)
@@ -85,6 +79,7 @@ npm run dev
 ---
 
 This README is a brief overview and quick start guide for the project.
+
 
 
 
